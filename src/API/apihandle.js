@@ -1,5 +1,5 @@
 import axios from "axios"
-export const BASE_URL = "https://web-portfolio-for-juniors.onrender.com/";
+export const BASE_URL = "https://group-project-5usc.onrender.com/";
 
 class Apihandle{
     getToken(){
